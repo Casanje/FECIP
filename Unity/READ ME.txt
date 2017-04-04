@@ -1,0 +1,3 @@
+Aqui ficarão todos os arquivos do Unity
+
+Obs.: Favor colocar somente o arquivos definitivos (caso for salvar a cada 1 segundo não dar o commit nesses arquivos)
